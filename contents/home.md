@@ -1,20 +1,17 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
-
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+[![GitHub](https://img.shields.io/badge/SimonTung16-GitHub-blue?logo=github)](https://github.com/SimonTung16)
+I am currently a Master's student in Computational Mathematics, School of Mathematical Sciences, Dalian University of Technology.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
-
+<code>mrtungys@outlook.com</code>  
+<code>mrSimonTung@gmail.com</code>  
+<code>1828715609@qq.com</code>
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Dalian University of Technology**, Master of Computational Mathematics (2024 – 2027)  
+• GPA: 3.7/4.0  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Yanshan University**, Bachelor of Information and Computing Science (2020 – 2024)  
+• GPA: 3.2/4.5  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Machine Learning, Deep Learning, Large-Scale Sparse Optimization, etc.
